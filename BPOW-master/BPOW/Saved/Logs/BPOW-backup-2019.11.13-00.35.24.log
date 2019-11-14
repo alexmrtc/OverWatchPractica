@@ -1,0 +1,1908 @@
+﻿Log file open, 11/12/19 22:58:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BPOW
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.297776
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1080 Ti
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.12-21.58.59:917][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.12-21.58.59:917][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.12-21.58.59:917][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/UnrealProject/UnrealProjectUY/BPOW/Saved/Config/Windows/Engine.ini]
+[2019.11.12-21.58.59:917][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.12-21.58.59:917][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/UnrealProject/UnrealProjectUY/BPOW/Saved/Config/Windows/Engine.ini]
+[2019.11.12-21.58.59:917][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/UnrealProject/UnrealProjectUY/BPOW/Saved/Config/Windows/Engine.ini]
+[2019.11.12-21.58.59:917][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.12-21.58.59:917][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.12-21.58.59:917][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.12-21.58.59:917][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.12-21.58.59:917][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.12-21.58.59:917][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.12-21.58.59:917][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.12-21.58.59:917][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.12-21.58.59:917][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.12-21.58.59:917][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.12-21.58.59:917][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.12-21.58.59:917][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.12-21.58.59:917][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.12-21.58.59:917][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/UnrealProject/UnrealProjectUY/BPOW/Saved/Config/Windows/Engine.ini]
+[2019.11.12-21.58.59:918][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.12-21.58.59:918][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.12-21.58.59:918][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.12-21.58.59:918][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.12-21.58.59:918][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.12-21.58.59:918][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.12-21.58.59:918][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.12-21.58.59:918][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.12-21.58.59:918][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.12-21.58.59:918][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.12-21.58.59:918][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.12-21.58.59:918][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.12-21.58.59:918][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.12-21.58.59:918][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/UnrealProject/UnrealProjectUY/BPOW/Saved/Config/Windows/Engine.ini]
+[2019.11.12-21.58.59:918][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/UnrealProject/UnrealProjectUY/BPOW/Saved/Config/Windows/Engine.ini]
+[2019.11.12-21.58.59:922][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/UnrealProject/UnrealProjectUY/BPOW/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/UnrealProject/UnrealProjectUY/BPOW/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/UnrealProject/UnrealProjectUY/BPOW/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/UnrealProject/UnrealProjectUY/BPOW/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/UnrealProject/UnrealProjectUY/BPOW/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/UnrealProject/UnrealProjectUY/BPOW/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/UnrealProject/UnrealProjectUY/BPOW/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.12-21.58.59:922][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.12-21.58.59:922][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.12-21.58.59:922][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.12-21.58.59:941][  0]LogHAL: Display: Platform has ~ 16 GB [17137057792 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.11.12-21.58.59:941][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.12-21.58.59:941][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/UnrealProject/UnrealProjectUY/BPOW/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/UnrealProject/UnrealProjectUY/BPOW/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/UnrealProject/UnrealProjectUY/BPOW/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/UnrealProject/UnrealProjectUY/BPOW/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.12-21.58.59:941][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.12-21.58.59:942][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.12-21.58.59:942][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.12-21.58.59:942][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/UnrealProject/UnrealProjectUY/BPOW/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-21.58.59:942][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.12-21.58.59:942][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.12-21.58.59:942][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.12-21.58.59:942][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.12-21.58.59:942][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.12-21.58.59:942][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.12-21.58.59:942][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.12-21.58.59:942][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.12-21.58.59:942][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/UnrealProject/UnrealProjectUY/BPOW/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-21.58.59:942][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.12-21.58.59:942][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.12-21.58.59:942][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.12-21.58.59:942][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.12-21.58.59:942][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.12-21.58.59:942][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.12-21.58.59:942][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.12-21.58.59:942][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.12-21.58.59:942][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.12-21.58.59:942][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.12-21.58.59:942][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.12-21.58.59:942][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.12-21.58.59:942][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.12-21.58.59:942][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/UnrealProject/UnrealProjectUY/BPOW/Saved/Config/Windows/Scalability.ini]
+[2019.11.12-21.58.59:942][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.12-21.58.59:942][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.12-21.58.59:942][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.12-21.58.59:946][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.12-21.58.59:946][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.12-21.58.59:946][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/UnrealProject/UnrealProjectUY/BPOW/Saved/Config/Windows/Engine.ini]
+[2019.11.12-21.58.59:946][  0]LogInit: Computer: DESKTOP-OUCQVJV
+[2019.11.12-21.58.59:946][  0]LogInit: User: Weaverr
+[2019.11.12-21.58.59:946][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.12-21.58.59:946][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.12-21.58.59:946][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.11.12-21.58.59:946][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.12-21.58.59:946][  0]LogMemory: Process Physical Memory: 98.20 MB used, 98.21 MB peak
+[2019.11.12-21.58.59:946][  0]LogMemory: Process Virtual Memory: 88.98 MB used, 88.98 MB peak
+[2019.11.12-21.58.59:946][  0]LogMemory: Physical Memory: 9958.95 MB used,  6384.22 MB free, 16343.17 MB total
+[2019.11.12-21.58.59:946][  0]LogMemory: Virtual Memory: 4656.41 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.11.12-21.59.00:057][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.11.12-21.59.00:057][  0]LogInit: Overriding locale with editor locale configuration option (en-150).
+[2019.11.12-21.59.00:307][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.12-21.59.00:381][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.12-21.59.00:381][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.12-21.59.02:229][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.12-21.59.02:229][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.12-21.59.02:279][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2019.11.12-21.59.02:279][  0]LogD3D11RHI:       11127/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.11.12-21.59.02:281][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.12-21.59.02:281][  0]LogD3D11RHI:       0/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.12-21.59.02:281][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.12-21.59.02:287][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.12-21.59.02:287][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.12-21.59.02:287][  0]LogWindows: EnumDisplayDevices:
+[2019.11.12-21.59.02:287][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2019.11.12-21.59.02:288][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:1)
+[2019.11.12-21.59.02:288][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2019.11.12-21.59.02:288][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2019.11.12-21.59.02:288][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.11.12-21.59.02:288][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2019.11.12-21.59.02:288][  0]LogD3D11RHI:   Driver Version: 440.97 (internal:26.21.14.4097, unified:440.97)
+[2019.11.12-21.59.02:288][  0]LogD3D11RHI:      Driver Date: 10-16-2019
+[2019.11.12-21.59.02:288][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2019.11.12-21.59.02:325][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.12-21.59.02:328][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.12-21.59.02:328][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.12-21.59.02:328][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.12-21.59.02:336][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.12-21.59.02:748][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.12-21.59.02:758][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.12-21.59.02:769][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.12-21.59.02:781][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.12-21.59.02:797][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.12-21.59.02:808][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.12-21.59.02:820][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.12-21.59.02:832][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.12-21.59.02:838][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.12-21.59.02:913][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.12-21.59.02:913][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.12-21.59.02:913][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.12-21.59.02:913][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.12-21.59.02:913][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.12-21.59.02:913][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.12-21.59.02:913][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.12-21.59.02:913][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.12-21.59.02:913][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.12-21.59.02:913][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.12-21.59.02:914][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.12-21.59.02:914][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.12-21.59.02:914][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.12-21.59.02:914][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.12-21.59.02:914][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.12-21.59.02:914][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.12-21.59.02:914][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.12-21.59.02:914][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.12-21.59.02:915][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.12-21.59.02:965][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.12-21.59.02:965][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.12-21.59.02:983][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.12-21.59.02:983][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.12-21.59.02:993][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.12-21.59.03:003][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.12-21.59.03:014][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.12-21.59.03:029][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.12-21.59.03:068][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.12-21.59.03:068][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.12-21.59.03:068][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.12-21.59.03:099][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.12-21.59.03:168][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (../../../../UnrealProject/UnrealProjectUY/BPOW/Intermediate/Shaders/WorkingDirectory/7892/).
+[2019.11.12-21.59.03:168][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Weaverr/AppData/Local/Temp/UnrealShaderWorkingDir/36F236EF4118308ACD746287D47055C2/'.
+[2019.11.12-21.59.03:171][  0]LogXGEController: Cleaning working directory: C:/Users/Weaverr/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.12-21.59.03:182][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2019.11.12-21.59.04:760][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.12-21.59.04:837][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/Weaverr/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.12-21.59.04:837][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Weaverr/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.11.12-21.59.04:837][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../UnrealProject/UnrealProjectUY/BPOW/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.12-21.59.04:837][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.12-21.59.04:837][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../UnrealProject/UnrealProjectUY/BPOW/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.12-21.59.04:837][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.12-21.59.04:851][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.12-21.59.04:851][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.12-21.59.04:851][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.12-21.59.04:863][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Weaverr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.12-21.59.04:863][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.12-21.59.04:863][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.12-21.59.04:879][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.12-21.59.04:880][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.12-21.59.04:889][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.12-21.59.05:089][  0]LogAssetRegistry: FAssetRegistry took 0.0308 seconds to start up
+[2019.11.12-21.59.05:373][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.12-21.59.05:534][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.12-21.59.05:534][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.12-21.59.05:534][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.12-21.59.05:534][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.12-21.59.05:534][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.12-21.59.05:562][  0]LogNetVersion: BPOW 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1085844810)
+[2019.11.12-21.59.06:297][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.037882 seconds
+[2019.11.12-21.59.06:302][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.11.12-21.59.06:302][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.11.12-21.59.06:302][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.12-21.59.08:325][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.12-21.59.08:339][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.12-21.59.08:454][  0]SourceControl: Source control is disabled
+[2019.11.12-21.59.08:454][  0]SourceControl: Source control is disabled
+[2019.11.12-21.59.08:457][  0]SourceControl: Source control is disabled
+[2019.11.12-21.59.08:458][  0]SourceControl: Source control is disabled
+[2019.11.12-21.59.08:563][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.12-21.59.08:670][  0]LogOcInput: OculusInput pre-init called
+[2019.11.12-21.59.09:303][  0]LogEngine: Initializing Engine...
+[2019.11.12-21.59.09:304][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.12-21.59.09:305][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.12-21.59.09:647][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.12-21.59.09:663][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.12-21.59.09:692][  0]LogInit: XAudio2 using 'Altavoces (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.12-21.59.09:706][  0]LogInit: FAudioDevice initialized.
+[2019.11.12-21.59.09:706][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.12-21.59.09:768][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/Weaverr/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.12-21.59.09:780][  0]LogInit: Texture streaming: Enabled
+[2019.11.12-21.59.09:797][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.12-21.59.09:821][  0]LogInit: Transaction tracking system initialized
+[2019.11.12-21.59.09:850][  0]BlueprintLog: New page: Editor Load
+[2019.11.12-21.59.09:940][  0]LocalizationService: Localization service is disabled
+[2019.11.12-21.59.10:394][  0]LogFileCache: Scanning file cache for directory 'C:/UnrealProject/UnrealProjectUY/BPOW/Content/' took 0.02s
+[2019.11.12-21.59.10:394][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.12-21.59.10:394][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.12-21.59.10:623][  0]SourceControl: Source control is disabled
+[2019.11.12-21.59.10:624][  0]Cmd: MAP LOAD FILE="../../../../UnrealProject/UnrealProjectUY/BPOW/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.12-21.59.10:624][  0]LightingResults: New page: Lighting Build
+[2019.11.12-21.59.10:626][  0]MapCheck: New page: Map Check
+[2019.11.12-21.59.10:626][  0]LightingResults: New page: Lighting Build
+[2019.11.12-21.59.10:646][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.11.12-21.59.11:291][  0]LogBlueprint: Warning: Node '/Game/FirstPersonBP/Blueprints/Abilities/Sprint.Sprint:EventGraph.K2Node_Event_6' missing NodeGuid, this can cause deterministic cooking issues please resave package.
+[2019.11.12-21.59.11:430][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.12-21.59.11:443][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.12-21.59.11:466][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.11.12-21.59.11:466][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.12-21.59.11:466][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,121ms to complete.
+[2019.11.12-21.59.11:466][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.843
+[2019.11.12-21.59.11:563][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-21.59.11:568][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-21.59.11:573][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-21.59.11:579][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-21.59.11:586][  0]LogCollectionManager: Loaded 0 collections in 0.001344 seconds
+[2019.11.12-21.59.11:601][  0]LogFileCache: Scanning file cache for directory 'C:/UnrealProject/UnrealProjectUY/BPOW/Saved/Collections/' took 0.01s
+[2019.11.12-21.59.11:601][  0]LogFileCache: Scanning file cache for directory 'C:/UnrealProject/UnrealProjectUY/BPOW/Content/Developers/Weaverr/Collections/' took 0.00s
+[2019.11.12-21.59.11:601][  0]LogFileCache: Scanning file cache for directory 'C:/UnrealProject/UnrealProjectUY/BPOW/Content/Collections/' took 0.00s
+[2019.11.12-21.59.11:601][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.11.12-21.59.11:608][  0]LogContentBrowser: Native class hierarchy populated in 0.0064 seconds. Added 2732 classes and 659 folders.
+[2019.11.12-21.59.11:613][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.12-21.59.11:617][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-21.59.11:621][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-21.59.11:632][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-21.59.11:636][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-21.59.11:639][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-21.59.11:643][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-21.59.11:647][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-21.59.11:651][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-21.59.11:655][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-21.59.11:659][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-21.59.11:663][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-21.59.11:667][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-21.59.11:671][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-21.59.11:674][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-21.59.11:678][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-21.59.11:682][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-21.59.11:703][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-21.59.11:707][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-21.59.11:710][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-21.59.11:715][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-21.59.11:718][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-21.59.11:722][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-21.59.11:726][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-21.59.11:741][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-21.59.11:745][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-21.59.11:748][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.12-21.59.11:846][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.12-21.59.11:852][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.11.12-21.59.11:930][  0]LogSlate: Took 0.004333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.12-21.59.11:936][  0]LogSlate: Took 0.003802 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.12-21.59.11:941][  0]LogSlate: Took 0.003374 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.12-21.59.12:030][  0]LogRenderer: Reallocating scene render targets to support 1468x792 Format 10 NumSamples 1 (Frame:1).
+[2019.11.12-21.59.12:139][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.12-21.59.12:139][  0]LogLoad: (Engine Initialization) Total time: 15.58 seconds
+[2019.11.12-21.59.12:139][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.12-21.59.12:166][  0]LogAssetRegistry: Asset discovery search completed in 7.1000 seconds
+[2019.11.12-21.59.12:167][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.11.12-21.59.12:167][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000038 seconds (updated 0 objects)
+[2019.11.12-21.59.12:169][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.12-21.59.14:401][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-21.59.14:500][272]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.12-21.59.14:512][272]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-21.59.14:512][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-21.59.14:512][272]PIE: New page: PIE session: FirstPersonExampleMap (12 Nov 2019 23:59:14)
+[2019.11.12-21.59.14:524][272]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.12-21.59.14:536][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012280s)
+[2019.11.12-21.59.14:537][272]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.12-21.59.14:537][272]LogPlayLevel: PIE: World Init took: (0.000686s)
+[2019.11.12-21.59.14:537][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013245s)
+[2019.11.12-21.59.14:557][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.11.12-21.59.14:582][272]LogInit: XAudio2 using 'Altavoces (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.12-21.59.14:590][272]LogInit: FAudioDevice initialized.
+[2019.11.12-21.59.14:632][272]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.12-21.59.14:634][272]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.11.12-22.59.14
+[2019.11.12-21.59.14:634][272]LogWorld: Bringing up level for play took: 0.001415
+[2019.11.12-21.59.14:651][272]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.11.12-21.59.14:660][272]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0,781
+[2019.11.12-21.59.14:660][272]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-21.59.19:948][903]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-21.59.19:948][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-21.59.19:975][903]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-21.59.19:975][903]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-21.59.19:997][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-21.59.20:000][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.11.12-21.59.20:050][906]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.11.12-21.59.21:340][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-21.59.31:238][215]LogSlate: Took 0.004697 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.12-21.59.31:245][215]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Pharah.Pharah
+[2019.11.12-21.59.31:532][215]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.11.12-21.59.32:229][215]LogSlate: Took 0.003715 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.12-21.59.32:332][216]LogSlate: Took 0.004058 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.12-21.59.41:061][163]BlueprintLog: New page: Compile Pharah
+[2019.11.12-21.59.41:212][163]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2019.11.12-21.59.41:549][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Pharah" FILE="../../../../UnrealProject/UnrealProjectUY/BPOW/Content/FirstPersonBP/Blueprints/Pharah.uasset" SILENT=true
+[2019.11.12-21.59.41:612][192]LogSavePackage: Moving '../../../../UnrealProject/UnrealProjectUY/BPOW/Saved/Pharah60B2486D4C03B4A8B6812391A3577887.tmp' to '../../../../UnrealProject/UnrealProjectUY/BPOW/Content/FirstPersonBP/Blueprints/Pharah.uasset'
+[2019.11.12-21.59.43:464][403]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.12-21.59.43:481][403]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-21.59.43:481][403]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-21.59.43:481][403]PIE: New page: PIE session: FirstPersonExampleMap (12 Nov 2019 23:59:43)
+[2019.11.12-21.59.43:481][403]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.12-21.59.43:491][403]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009922s)
+[2019.11.12-21.59.43:492][403]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.12-21.59.43:492][403]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2019.11.12-21.59.43:492][403]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010921s)
+[2019.11.12-21.59.43:519][403]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.11.12-21.59.43:544][403]LogInit: XAudio2 using 'Altavoces (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.12-21.59.43:553][403]LogInit: FAudioDevice initialized.
+[2019.11.12-21.59.43:582][403]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.12-21.59.43:584][403]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.11.12-22.59.43
+[2019.11.12-21.59.43:584][403]LogWorld: Bringing up level for play took: 0.001360
+[2019.11.12-21.59.43:597][403]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,157
+[2019.11.12-21.59.43:598][403]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-21.59.55:012][770]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Abilities' of length 1 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C'!
+[2019.11.12-21.59.55:013][770]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:021][771]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:029][772]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:038][773]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:046][774]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:054][775]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:063][776]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:071][777]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:079][778]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:088][779]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:096][780]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:104][781]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:113][782]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:121][783]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:130][784]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:138][785]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:146][786]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:155][787]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:163][788]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Abilities' of length 1 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C'!
+[2019.11.12-21.59.55:163][788]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:171][789]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:180][790]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:188][791]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:196][792]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:205][793]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:213][794]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:222][795]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:230][796]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:239][797]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:247][798]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:255][799]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:263][800]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:272][801]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:280][802]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:289][803]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:297][804]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:306][805]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:313][806]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:322][807]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:330][808]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:339][809]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:347][810]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:355][811]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:363][812]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:371][813]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:379][814]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:388][815]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:396][816]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:404][817]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:413][818]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:421][819]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:429][820]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:438][821]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:446][822]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:454][823]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:463][824]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:471][825]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:479][826]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:488][827]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:496][828]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:504][829]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:513][830]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:522][831]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:530][832]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:538][833]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:546][834]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:555][835]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:563][836]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:571][837]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:580][838]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:588][839]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:596][840]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:605][841]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:613][842]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:622][843]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:630][844]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:638][845]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:647][846]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:655][847]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:663][848]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:672][849]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:680][850]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:689][851]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:697][852]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:705][853]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:714][854]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:722][855]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:730][856]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:738][857]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:746][858]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:754][859]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:763][860]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:771][861]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:779][862]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:788][863]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:796][864]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:805][865]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:813][866]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:821][867]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:830][868]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:838][869]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:846][870]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:855][871]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:864][872]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:872][873]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:880][874]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:888][875]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:897][876]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:905][877]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:914][878]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:921][879]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:929][880]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:938][881]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:946][882]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:954][883]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:963][884]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:971][885]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:980][886]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:988][887]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.55:997][888]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:005][889]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:013][890]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:022][891]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:030][892]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:038][893]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:047][894]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:055][895]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:063][896]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:072][897]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:080][898]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:088][899]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:097][900]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:105][901]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:113][902]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:122][903]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:130][904]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:138][905]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:146][906]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:155][907]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:163][908]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:171][909]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:180][910]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:188][911]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:196][912]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:205][913]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:213][914]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:221][915]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:230][916]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:238][917]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:247][918]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:255][919]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:263][920]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:272][921]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:279][922]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:288][923]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:296][924]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:305][925]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:313][926]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:321][927]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:330][928]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:338][929]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:346][930]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:355][931]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:363][932]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:371][933]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:380][934]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:388][935]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:396][936]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:405][937]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:413][938]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:422][939]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:430][940]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:438][941]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:447][942]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:455][943]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:463][944]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:472][945]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:480][946]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:488][947]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:497][948]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:505][949]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:513][950]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:521][951]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:529][952]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:537][953]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:546][954]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:555][955]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:563][956]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:571][957]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:579][958]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:588][959]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:596][960]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:605][961]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:613][962]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:621][963]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:629][964]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:638][965]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:646][966]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:654][967]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:663][968]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:672][969]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:680][970]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:688][971]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:697][972]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:705][973]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:713][974]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:721][975]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:730][976]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:738][977]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:746][978]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:755][979]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:763][980]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:771][981]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:780][982]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:788][983]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:797][984]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:805][985]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:813][986]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:822][987]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:830][988]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:838][989]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:847][990]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:855][991]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:863][992]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:872][993]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:880][994]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:889][995]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:897][996]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:905][997]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:914][998]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:922][999]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:930][  0]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:938][  1]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:946][  2]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:955][  3]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:963][  4]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:972][  5]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:980][  6]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:988][  7]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.56:997][  8]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:005][  9]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:013][ 10]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:022][ 11]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:030][ 12]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:038][ 13]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:047][ 14]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:055][ 15]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:063][ 16]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:072][ 17]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:080][ 18]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:089][ 19]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:097][ 20]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:105][ 21]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:114][ 22]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:122][ 23]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:130][ 24]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:139][ 25]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:147][ 26]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:155][ 27]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:163][ 28]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:172][ 29]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:180][ 30]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:188][ 31]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:197][ 32]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:205][ 33]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:213][ 34]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:222][ 35]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:230][ 36]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:239][ 37]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:247][ 38]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:255][ 39]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:263][ 40]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:272][ 41]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:280][ 42]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:288][ 43]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:297][ 44]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:305][ 45]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:314][ 46]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:322][ 47]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:330][ 48]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:339][ 49]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:347][ 50]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:355][ 51]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:364][ 52]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:372][ 53]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:380][ 54]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:389][ 55]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:397][ 56]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:405][ 57]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:413][ 58]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:421][ 59]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:429][ 60]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:438][ 61]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:446][ 62]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:454][ 63]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:463][ 64]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:471][ 65]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:480][ 66]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:488][ 67]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:497][ 68]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:505][ 69]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:513][ 70]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:522][ 71]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:530][ 72]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:538][ 73]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:547][ 74]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:555][ 75]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:564][ 76]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:572][ 77]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:580][ 78]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:588][ 79]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:597][ 80]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:605][ 81]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:614][ 82]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:622][ 83]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:630][ 84]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:638][ 85]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:647][ 86]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:655][ 87]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:663][ 88]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:672][ 89]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:680][ 90]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:688][ 91]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:697][ 92]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:705][ 93]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:713][ 94]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:722][ 95]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:730][ 96]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:739][ 97]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:747][ 98]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:755][ 99]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:764][100]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:772][101]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:780][102]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:789][103]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:797][104]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:805][105]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:813][106]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:821][107]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:829][108]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:838][109]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:846][110]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:855][111]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:863][112]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:872][113]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:880][114]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:889][115]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:897][116]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:905][117]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:914][118]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:922][119]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:930][120]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:939][121]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:947][122]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:955][123]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:964][124]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:972][125]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:980][126]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:988][127]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.57:997][128]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-21.59.58:414][178]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-309.215 Y=-309.589 Z=144.088] for [Missile_C]
+[2019.11.12-21.59.59:830][348]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-364.799 Y=-427.341 Z=144.057] for [Missile_C]
+[2019.11.12-22.00.03:031][732]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-22.00.03:031][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-22.00.03:064][732]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-22.00.03:064][732]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-22.00.03:093][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-22.00.03:096][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.11.12-22.00.03:143][734]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.11.12-22.00.04:323][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-22.00.04:479][893]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Missile.Missile
+[2019.11.12-22.00.28:194][615]LogRenderer: Reallocating scene render targets to support 1468x980 Format 10 NumSamples 1 (Frame:1).
+[2019.11.12-22.02.05:716][869]BlueprintLog: New page: Compile Pharah
+[2019.11.12-22.02.05:872][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.11.12-22.02.09:750][308]BlueprintLog: New page: Compile Missile
+[2019.11.12-22.02.09:872][308]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.11.12-22.02.10:323][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Missile" FILE="../../../../UnrealProject/UnrealProjectUY/BPOW/Content/FirstPersonBP/Blueprints/Missile.uasset" SILENT=true
+[2019.11.12-22.02.10:360][355]LogSavePackage: Moving '../../../../UnrealProject/UnrealProjectUY/BPOW/Saved/Missile99A30F214B0E229FB119108EA7F0D24D.tmp' to '../../../../UnrealProject/UnrealProjectUY/BPOW/Content/FirstPersonBP/Blueprints/Missile.uasset'
+[2019.11.12-22.02.11:483][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Pharah" FILE="../../../../UnrealProject/UnrealProjectUY/BPOW/Content/FirstPersonBP/Blueprints/Pharah.uasset" SILENT=true
+[2019.11.12-22.02.11:516][478]LogSavePackage: Moving '../../../../UnrealProject/UnrealProjectUY/BPOW/Saved/PharahA3F9CBB24AC7FF50F6CD0FABA45D5395.tmp' to '../../../../UnrealProject/UnrealProjectUY/BPOW/Content/FirstPersonBP/Blueprints/Pharah.uasset'
+[2019.11.12-22.02.13:531][711]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.12-22.02.13:549][711]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-22.02.13:549][711]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-22.02.13:549][711]PIE: New page: PIE session: FirstPersonExampleMap (13 Nov 2019 00:02:13)
+[2019.11.12-22.02.13:549][711]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.12-22.02.13:559][711]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010380s)
+[2019.11.12-22.02.13:560][711]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.12-22.02.13:560][711]LogPlayLevel: PIE: World Init took: (0.000725s)
+[2019.11.12-22.02.13:560][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011263s)
+[2019.11.12-22.02.13:587][711]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.11.12-22.02.13:613][711]LogInit: XAudio2 using 'Altavoces (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.12-22.02.13:623][711]LogInit: FAudioDevice initialized.
+[2019.11.12-22.02.13:654][711]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.12-22.02.13:656][711]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.11.12-23.02.13
+[2019.11.12-22.02.13:656][711]LogWorld: Bringing up level for play took: 0.001552
+[2019.11.12-22.02.13:670][711]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,228
+[2019.11.12-22.02.13:670][711]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-22.02.23:243][857]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Abilities' of length 1 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C'!
+[2019.11.12-22.02.23:244][857]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:251][858]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:260][859]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:267][860]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:275][861]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:284][862]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:292][863]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:300][864]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:309][865]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:317][866]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:326][867]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:334][868]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:342][869]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:351][870]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:359][871]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:368][872]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:376][873]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:385][874]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:393][875]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:401][876]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Abilities' of length 1 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C'!
+[2019.11.12-22.02.23:401][876]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:410][877]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:418][878]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:426][879]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:435][880]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:443][881]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:451][882]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:459][883]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:467][884]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:475][885]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:484][886]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:492][887]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:501][888]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:509][889]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:517][890]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:526][891]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:534][892]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:542][893]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:551][894]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:560][895]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:568][896]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:576][897]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:584][898]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:592][899]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:601][900]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:609][901]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:618][902]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:626][903]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:635][904]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:643][905]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:652][906]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:660][907]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:669][908]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:677][909]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:685][910]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:693][911]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:702][912]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:710][913]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:718][914]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:727][915]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:735][916]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:743][917]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:752][918]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:760][919]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:768][920]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:776][921]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:784][922]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:793][923]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:801][924]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:809][925]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:818][926]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:826][927]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:834][928]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:843][929]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:851][930]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:859][931]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:868][932]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:876][933]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:884][934]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:892][935]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:901][936]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:909][937]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:918][938]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:926][939]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:934][940]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:943][941]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:951][942]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:960][943]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:968][944]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:975][945]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:984][946]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.23:992][947]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:001][948]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:009][949]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:017][950]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:026][951]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:034][952]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:042][953]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:051][954]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:059][955]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:068][956]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:076][957]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:084][958]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:093][959]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:101][960]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:109][961]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:118][962]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:126][963]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:135][964]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:143][965]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:151][966]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:160][967]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:168][968]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:176][969]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:185][970]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:193][971]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:201][972]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:209][973]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:218][974]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:226][975]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:234][976]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:244][977]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:251][978]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:259][979]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:268][980]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:276][981]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:285][982]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:294][983]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:301][984]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:310][985]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:318][986]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:327][987]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:335][988]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:343][989]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:352][990]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:359][991]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:368][992]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:376][993]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:384][994]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:393][995]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:401][996]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:410][997]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:418][998]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:426][999]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:435][  0]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:443][  1]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:452][  2]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:460][  3]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:468][  4]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:476][  5]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:485][  6]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:493][  7]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:502][  8]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:509][  9]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:518][ 10]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:526][ 11]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:535][ 12]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:543][ 13]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:551][ 14]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:559][ 15]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:568][ 16]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:576][ 17]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:585][ 18]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:593][ 19]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:601][ 20]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:609][ 21]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:618][ 22]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:626][ 23]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:635][ 24]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:643][ 25]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:651][ 26]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:659][ 27]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:668][ 28]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:676][ 29]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:685][ 30]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:693][ 31]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:701][ 32]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:710][ 33]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:718][ 34]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:726][ 35]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:735][ 36]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:743][ 37]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:751][ 38]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:759][ 39]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:768][ 40]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:776][ 41]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:785][ 42]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:793][ 43]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:801][ 44]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:809][ 45]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:818][ 46]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:826][ 47]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:835][ 48]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:843][ 49]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:851][ 50]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:860][ 51]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:868][ 52]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:877][ 53]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:885][ 54]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:893][ 55]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:902][ 56]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:910][ 57]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:919][ 58]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:927][ 59]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:934][ 60]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:942][ 61]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:951][ 62]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:959][ 63]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:968][ 64]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:976][ 65]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:985][ 66]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.24:994][ 67]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:002][ 68]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:009][ 69]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:018][ 70]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:026][ 71]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:035][ 72]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:043][ 73]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:051][ 74]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:059][ 75]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:067][ 76]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:076][ 77]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:084][ 78]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:092][ 79]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:101][ 80]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:109][ 81]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:118][ 82]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:126][ 83]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:134][ 84]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:143][ 85]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:151][ 86]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:160][ 87]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:168][ 88]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:176][ 89]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:185][ 90]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:193][ 91]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:202][ 92]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:210][ 93]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:219][ 94]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:227][ 95]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:235][ 96]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:244][ 97]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:252][ 98]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:259][ 99]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:268][100]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:276][101]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:285][102]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:293][103]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:301][104]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:309][105]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:318][106]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:326][107]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:335][108]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:343][109]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:351][110]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:360][111]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:368][112]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:376][113]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:385][114]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:393][115]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:402][116]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:410][117]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:418][118]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:427][119]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:435][120]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:442][121]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:451][122]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:459][123]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:467][124]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:476][125]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:484][126]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:492][127]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:501][128]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:509][129]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:518][130]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:526][131]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:534][132]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:543][133]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:551][134]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:559][135]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:568][136]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:576][137]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:585][138]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:593][139]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:602][140]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:610][141]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:619][142]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:626][143]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:634][144]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:643][145]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:651][146]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:660][147]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:668][148]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:676][149]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:685][150]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:693][151]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:702][152]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:710][153]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:718][154]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:727][155]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:735][156]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:743][157]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:751][158]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:759][159]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:767][160]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:776][161]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:785][162]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:793][163]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:801][164]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:810][165]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:818][166]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:826][167]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:835][168]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:843][169]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:851][170]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:860][171]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:868][172]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:876][173]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:885][174]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:893][175]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:902][176]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:910][177]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:918][178]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:927][179]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:935][180]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:944][181]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:951][182]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:959][183]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:967][184]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:976][185]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:984][186]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.25:992][187]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.26:001][188]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.26:009][189]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.26:017][190]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.26:026][191]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.26:034][192]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.26:042][193]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.26:051][194]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.26:059][195]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.26:068][196]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.26:076][197]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.26:084][198]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.26:093][199]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.26:101][200]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.26:109][201]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.26:118][202]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.26:126][203]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.26:135][204]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.26:143][205]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.26:152][206]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.26:160][207]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.26:168][208]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.26:177][209]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.26:185][210]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.26:193][211]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.26:202][212]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.26:210][213]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.26:218][214]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.26:227][215]LogBlueprintUserMessages: [Pharah_6] Hello
+[2019.11.12-22.02.27:435][360]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-22.02.27:436][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-22.02.27:467][360]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-22.02.27:467][360]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-22.02.27:497][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-22.02.27:500][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.11.12-22.02.27:544][362]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.11.12-22.02.29:142][553]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-22.02.29:289][570]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.11.12-22.03.02:342][149]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.12-22.03.02:512][149]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.11.12-22.03.08:807][844]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.12-22.03.08:975][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.11.12-22.03.09:663][900]LogSavePackage: Moving '../../../../UnrealProject/UnrealProjectUY/BPOW/Saved/FirstPersonCharacter430C292F4F8DD43114F693A742E9D35B.tmp' to '../../../../UnrealProject/UnrealProjectUY/BPOW/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.12-22.03.41:615][238]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.12-22.03.41:642][238]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-22.03.41:642][238]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-22.03.41:642][238]PIE: New page: PIE session: FirstPersonExampleMap (13 Nov 2019 00:03:41)
+[2019.11.12-22.03.41:642][238]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.12-22.03.41:652][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009862s)
+[2019.11.12-22.03.41:653][238]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.12-22.03.41:653][238]LogPlayLevel: PIE: World Init took: (0.000805s)
+[2019.11.12-22.03.41:653][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010885s)
+[2019.11.12-22.03.41:682][238]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.11.12-22.03.41:708][238]LogInit: XAudio2 using 'Altavoces (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.12-22.03.41:716][238]LogInit: FAudioDevice initialized.
+[2019.11.12-22.03.41:748][238]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.12-22.03.41:750][238]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.11.12-23.03.41
+[2019.11.12-22.03.41:750][238]LogWorld: Bringing up level for play took: 0.001666
+[2019.11.12-22.03.41:764][238]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,323
+[2019.11.12-22.03.41:764][238]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-22.03.50:987][320]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-22.03.50:987][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-22.03.51:025][320]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-22.03.51:025][320]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-22.03.51:057][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-22.03.51:061][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.11.12-22.03.51:138][321]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.11.12-22.03.51:919][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-22.05.01:878][321]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.12-22.05.02:047][321]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.11.12-22.05.02:471][343]LogSavePackage: Moving '../../../../UnrealProject/UnrealProjectUY/BPOW/Saved/FirstPersonCharacterFD60B6FF42C2AF5A5B897698928EFE0B.tmp' to '../../../../UnrealProject/UnrealProjectUY/BPOW/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.12-22.05.02:783][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-22.05.18:657][912]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.12-22.05.18:685][912]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-22.05.18:685][912]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-22.05.18:685][912]PIE: New page: PIE session: FirstPersonExampleMap (13 Nov 2019 00:05:18)
+[2019.11.12-22.05.18:685][912]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.12-22.05.18:696][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010269s)
+[2019.11.12-22.05.18:696][912]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.12-22.05.18:696][912]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2019.11.12-22.05.18:696][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011221s)
+[2019.11.12-22.05.18:728][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.11.12-22.05.18:753][912]LogInit: XAudio2 using 'Altavoces (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.12-22.05.18:764][912]LogInit: FAudioDevice initialized.
+[2019.11.12-22.05.18:789][912]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.12-22.05.18:790][912]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.11.12-23.05.18
+[2019.11.12-22.05.18:791][912]LogWorld: Bringing up level for play took: 0.001358
+[2019.11.12-22.05.18:804][912]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0,638
+[2019.11.12-22.05.18:804][912]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-22.05.28:687][ 81]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Abilities' of length 1 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C'!
+[2019.11.12-22.05.28:821][ 97]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Abilities' of length 1 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C'!
+[2019.11.12-22.05.31:264][390]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-22.05.31:264][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-22.05.31:299][390]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-22.05.31:300][390]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-22.05.31:331][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-22.05.31:335][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.11.12-22.05.31:380][392]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.11.12-22.05.32:020][443]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-22.06.17:364][293]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.12-22.06.17:535][293]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2019.11.12-22.06.55:609][794]LogSavePackage: Moving '../../../../UnrealProject/UnrealProjectUY/BPOW/Saved/FirstPersonCharacter73598F384BDEDDB6102D7A85F2EF9935.tmp' to '../../../../UnrealProject/UnrealProjectUY/BPOW/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.11.12-22.06.56:625][913]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-22.06.58:007][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-22.06.58:115][ 91]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.12-22.06.58:137][ 91]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-22.06.58:137][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-22.06.58:137][ 91]PIE: New page: PIE session: FirstPersonExampleMap (13 Nov 2019 00:06:58)
+[2019.11.12-22.06.58:138][ 91]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.12-22.06.58:147][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010048s)
+[2019.11.12-22.06.58:147][ 91]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.12-22.06.58:147][ 91]LogPlayLevel: PIE: World Init took: (0.000579s)
+[2019.11.12-22.06.58:147][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010810s)
+[2019.11.12-22.06.58:180][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.11.12-22.06.58:205][ 91]LogInit: XAudio2 using 'Altavoces (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.12-22.06.58:214][ 91]LogInit: FAudioDevice initialized.
+[2019.11.12-22.06.58:242][ 91]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.12-22.06.58:245][ 91]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.11.12-23.06.58
+[2019.11.12-22.06.58:245][ 91]LogWorld: Bringing up level for play took: 0.002704
+[2019.11.12-22.06.58:259][ 91]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,818
+[2019.11.12-22.06.58:259][ 91]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-22.07.04:391][821]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-22.07.04:391][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-22.07.04:422][821]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-22.07.04:422][821]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-22.07.04:454][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-22.07.04:457][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.11.12-22.07.04:502][823]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.11.12-22.07.05:288][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-22.07.15:274][113]LogAssetEditorManager: Opening Asset editor for DataTable /Game/GameplayData/HeroDataTable.HeroDataTable
+[2019.11.12-22.07.15:280][113]LogBlueprintActionDatabase: Requesting refresh due to module change: DataTableEditor (loaded)
+[2019.11.12-22.07.27:585][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameplayData/HeroDataTable" FILE="../../../../UnrealProject/UnrealProjectUY/BPOW/Content/GameplayData/HeroDataTable.uasset" SILENT=true
+[2019.11.12-22.07.27:598][472]LogSavePackage: Moving '../../../../UnrealProject/UnrealProjectUY/BPOW/Saved/HeroDataTableACEEB2414DB98156B896E2B3839E4AE4.tmp' to '../../../../UnrealProject/UnrealProjectUY/BPOW/Content/GameplayData/HeroDataTable.uasset'
+[2019.11.12-22.07.29:334][678]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.12-22.07.29:348][678]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-22.07.29:348][678]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-22.07.29:348][678]PIE: New page: PIE session: FirstPersonExampleMap (13 Nov 2019 00:07:29)
+[2019.11.12-22.07.29:348][678]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.12-22.07.29:359][678]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010603s)
+[2019.11.12-22.07.29:359][678]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.12-22.07.29:360][678]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2019.11.12-22.07.29:360][678]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011648s)
+[2019.11.12-22.07.29:407][678]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2019.11.12-22.07.29:433][678]LogInit: XAudio2 using 'Altavoces (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.12-22.07.29:443][678]LogInit: FAudioDevice initialized.
+[2019.11.12-22.07.29:472][678]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.12-22.07.29:474][678]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.11.12-23.07.29
+[2019.11.12-22.07.29:474][678]LogWorld: Bringing up level for play took: 0.001395
+[2019.11.12-22.07.29:488][678]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,047
+[2019.11.12-22.07.29:488][678]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-22.07.45:111][550]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Abilities' of length 1 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C'!
+[2019.11.12-22.07.45:269][569]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Abilities' of length 1 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C'!
+[2019.11.12-22.07.46:002][657]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Abilities' of length 1 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C'!
+[2019.11.12-22.07.46:160][676]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Abilities' of length 1 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C'!
+[2019.11.12-22.07.47:558][843]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Abilities' of length 1 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C'!
+[2019.11.12-22.07.47:716][862]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Abilities' of length 1 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C'!
+[2019.11.12-22.07.47:841][877]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Abilities' of length 1 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C'!
+[2019.11.12-22.07.47:933][888]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Abilities' of length 1 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C'!
+[2019.11.12-22.07.48:025][899]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Abilities' of length 1 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C'!
+[2019.11.12-22.07.48:141][913]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Abilities' of length 1 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C'!
+[2019.11.12-22.07.48:225][923]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Abilities' of length 1 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C'!
+[2019.11.12-22.07.48:324][935]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Abilities' of length 1 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C'!
+[2019.11.12-22.07.51:926][367]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-22.07.51:926][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-22.07.51:960][367]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-22.07.51:960][367]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-22.07.51:995][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-22.07.52:000][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.11.12-22.07.52:047][369]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.11.12-22.10.42:418][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.11.12-22.10.42:600][ 25]LogSavePackage: Moving '../../../../UnrealProject/UnrealProjectUY/BPOW/Saved/FirstPersonExampleMap_Auto1C38E4B3B40B8DAEA6F31E2AD1FF15ED6.tmp' to '../../../../UnrealProject/UnrealProjectUY/BPOW/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2019.11.12-22.10.42:602][ 25]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.215
+[2019.11.12-22.10.42:602][ 25]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.215
+[2019.11.12-22.39.07:536][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-22.39.07:760][108]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.12-22.39.07:777][108]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-22.39.07:777][108]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-22.39.07:777][108]PIE: New page: PIE session: FirstPersonExampleMap (13 Nov 2019 00:39:07)
+[2019.11.12-22.39.07:777][108]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.12-22.39.07:787][108]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010231s)
+[2019.11.12-22.39.07:788][108]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.12-22.39.07:788][108]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2019.11.12-22.39.07:788][108]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011122s)
+[2019.11.12-22.39.07:827][108]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.11.12-22.39.07:853][108]LogInit: XAudio2 using 'Altavoces (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.12-22.39.07:862][108]LogInit: FAudioDevice initialized.
+[2019.11.12-22.39.07:892][108]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.12-22.39.07:894][108]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.11.12-23.39.07
+[2019.11.12-22.39.07:894][108]LogWorld: Bringing up level for play took: 0.001444
+[2019.11.12-22.39.07:908][108]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,467
+[2019.11.12-22.39.07:908][108]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-22.39.19:141][445]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Abilities' of length 1 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C'!
+[2019.11.12-22.39.19:216][454]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Abilities' of length 1 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C'!
+[2019.11.12-22.39.19:675][509]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Abilities' of length 1 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C'!
+[2019.11.12-22.39.19:798][524]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Abilities' of length 1 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C'!
+[2019.11.12-22.39.22:008][789]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Abilities' of length 1 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C'!
+[2019.11.12-22.39.22:124][803]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Abilities' of length 1 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C'!
+[2019.11.12-22.39.29:751][718]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-22.39.29:752][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-22.39.29:786][718]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-22.39.29:787][718]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.12-22.39.29:821][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-22.39.29:824][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.11.12-22.39.29:870][720]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.11.13-00.35.19:222][ 46]LogSlate: Window 'HeroDataTable' being destroyed
+[2019.11.13-00.35.19:224][ 46]LogSlate: Window 'HeroDataTable' being destroyed
+[2019.11.13-00.35.19:476][ 46]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.13-00.35.19:602][ 46]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.13-00.35.19:880][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   7.19ms
+[2019.11.13-00.35.19:886][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-00.35.21:725][ 46]LogSlate: Window 'Save Content' being destroyed
+[2019.11.13-00.35.21:731][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-00.35.21:792][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2019.11.13-00.35.22:024][ 46]LogSavePackage: Moving '../../../../UnrealProject/UnrealProjectUY/BPOW/Saved/FirstPersonExampleMap880906EB47D7E828CEB74FA0F8913508.tmp' to '../../../../UnrealProject/UnrealProjectUY/BPOW/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.11.13-00.35.22:054][ 46]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.319
+[2019.11.13-00.35.22:124][ 46]LogSlate: Window 'Message Log' being destroyed
+[2019.11.13-00.35.22:127][ 46]LogSlate: Window 'BPOW - Unreal Editor' being destroyed
+[2019.11.13-00.35.22:128][ 46]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.13-00.35.22:336][ 47]Cmd: QUIT_EDITOR
+[2019.11.13-00.35.22:723][ 47]LogExit: Preparing to exit.
+[2019.11.13-00.35.23:074][ 47]LogDirectoryWatcher: A directory notification failed for 'C:/UnrealProject/UnrealProjectUY/BPOW/Content/', and we were unable to create a new request.
+[2019.11.13-00.35.23:128][ 47]LogExit: Editor shut down
+[2019.11.13-00.35.23:129][ 47]LogExit: Transaction tracking system shut down
+[2019.11.13-00.35.23:558][ 47]LogExit: Object subsystem successfully closed.
+[2019.11.13-00.35.23:587][ 47]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.11.13-00.35.23:593][ 47]LogD3D11RHI: Shutdown
+[2019.11.13-00.35.23:593][ 47]LogD3D11RHI: CleanupD3DDevice
+[2019.11.13-00.35.23:597][ 47]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.13-00.35.23:597][ 47]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.13-00.35.23:597][ 47]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.13-00.35.23:597][ 47]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.13-00.35.23:597][ 47]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.13-00.35.23:597][ 47]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.13-00.35.23:708][ 47]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.11.13-00.35.23:752][ 47]LogModuleManager: Shutting down and abandoning module DataTableEditor (650)
+[2019.11.13-00.35.23:752][ 47]LogModuleManager: Shutting down and abandoning module BlueprintGraph (648)
+[2019.11.13-00.35.23:752][ 47]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (646)
+[2019.11.13-00.35.23:752][ 47]LogModuleManager: Shutting down and abandoning module Voice (644)
+[2019.11.13-00.35.23:752][ 47]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2019.11.13-00.35.23:752][ 47]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2019.11.13-00.35.23:752][ 47]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2019.11.13-00.35.23:755][ 47]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2019.11.13-00.35.23:755][ 47]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2019.11.13-00.35.23:755][ 47]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2019.11.13-00.35.23:755][ 47]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.11.13-00.35.23:756][ 47]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.11.13-00.35.23:756][ 47]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.11.13-00.35.23:757][ 47]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.11.13-00.35.23:757][ 47]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.11.13-00.35.23:757][ 47]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.11.13-00.35.23:757][ 47]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.11.13-00.35.23:757][ 47]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.11.13-00.35.23:757][ 47]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.11.13-00.35.23:757][ 47]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.11.13-00.35.23:758][ 47]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.11.13-00.35.23:759][ 47]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.11.13-00.35.23:759][ 47]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.11.13-00.35.23:759][ 47]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.11.13-00.35.23:759][ 47]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.11.13-00.35.23:759][ 47]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.11.13-00.35.23:761][ 47]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.11.13-00.35.23:761][ 47]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.11.13-00.35.23:762][ 47]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.11.13-00.35.23:762][ 47]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.11.13-00.35.23:762][ 47]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.11.13-00.35.23:762][ 47]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.11.13-00.35.23:762][ 47]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.11.13-00.35.23:762][ 47]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.11.13-00.35.23:762][ 47]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.11.13-00.35.23:763][ 47]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.11.13-00.35.23:763][ 47]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.11.13-00.35.23:764][ 47]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.11.13-00.35.23:764][ 47]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.11.13-00.35.23:764][ 47]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.11.13-00.35.23:764][ 47]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.11.13-00.35.23:764][ 47]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.11.13-00.35.23:764][ 47]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.11.13-00.35.23:764][ 47]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.11.13-00.35.23:764][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.11.13-00.35.23:764][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.11.13-00.35.23:764][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.11.13-00.35.23:764][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.11.13-00.35.23:764][ 47]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.11.13-00.35.23:764][ 47]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.11.13-00.35.23:764][ 47]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.11.13-00.35.23:764][ 47]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.11.13-00.35.23:764][ 47]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.11.13-00.35.23:764][ 47]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.11.13-00.35.23:764][ 47]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.11.13-00.35.23:765][ 47]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.11.13-00.35.23:766][ 47]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.11.13-00.35.23:767][ 47]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.11.13-00.35.23:768][ 47]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.11.13-00.35.23:768][ 47]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.11.13-00.35.23:768][ 47]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.11.13-00.35.23:768][ 47]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.11.13-00.35.23:768][ 47]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.11.13-00.35.23:770][ 47]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.11.13-00.35.24:323][ 47]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.11.13-00.35.24:323][ 47]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.11.13-00.35.24:323][ 47]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.11.13-00.35.24:323][ 47]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.11.13-00.35.24:324][ 47]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.11.13-00.35.24:324][ 47]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.11.13-00.35.24:324][ 47]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.11.13-00.35.24:324][ 47]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.11.13-00.35.24:325][ 47]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.11.13-00.35.24:325][ 47]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.11.13-00.35.24:325][ 47]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.11.13-00.35.24:325][ 47]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.11.13-00.35.24:326][ 47]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.11.13-00.35.24:326][ 47]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.11.13-00.35.24:326][ 47]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.11.13-00.35.24:326][ 47]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.11.13-00.35.24:326][ 47]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.11.13-00.35.24:326][ 47]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.11.13-00.35.24:327][ 47]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.11.13-00.35.24:327][ 47]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.11.13-00.35.24:327][ 47]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.11.13-00.35.24:328][ 47]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.11.13-00.35.24:328][ 47]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.11.13-00.35.24:372][ 47]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.11.13-00.35.24:373][ 47]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.11.13-00.35.24:373][ 47]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.11.13-00.35.24:375][ 47]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.11.13-00.35.24:375][ 47]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.11.13-00.35.24:375][ 47]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.11.13-00.35.24:375][ 47]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.11.13-00.35.24:376][ 47]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.11.13-00.35.24:377][ 47]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.11.13-00.35.24:377][ 47]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.11.13-00.35.24:377][ 47]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.11.13-00.35.24:381][ 47]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.11.13-00.35.24:382][ 47]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.11.13-00.35.24:382][ 47]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.11.13-00.35.24:382][ 47]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.11.13-00.35.24:382][ 47]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.11.13-00.35.24:382][ 47]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.11.13-00.35.24:382][ 47]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.11.13-00.35.24:382][ 47]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.11.13-00.35.24:382][ 47]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.11.13-00.35.24:383][ 47]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.11.13-00.35.24:383][ 47]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.11.13-00.35.24:383][ 47]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.11.13-00.35.24:383][ 47]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.11.13-00.35.24:383][ 47]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.11.13-00.35.24:383][ 47]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.11.13-00.35.24:383][ 47]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.11.13-00.35.24:383][ 47]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.11.13-00.35.24:383][ 47]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.11.13-00.35.24:383][ 47]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.11.13-00.35.24:384][ 47]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.11.13-00.35.24:384][ 47]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.11.13-00.35.24:384][ 47]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.11.13-00.35.24:384][ 47]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.11.13-00.35.24:384][ 47]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.11.13-00.35.24:389][ 47]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.11.13-00.35.24:438][ 47]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.11.13-00.35.24:443][ 47]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.11.13-00.35.24:443][ 47]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.11.13-00.35.24:444][ 47]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.11.13-00.35.24:444][ 47]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.11.13-00.35.24:445][ 47]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.11.13-00.35.24:445][ 47]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.11.13-00.35.24:445][ 47]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.11.13-00.35.24:445][ 47]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.11.13-00.35.24:445][ 47]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.11.13-00.35.24:446][ 47]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.11.13-00.35.24:446][ 47]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.11.13-00.35.24:446][ 47]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.11.13-00.35.24:446][ 47]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.11.13-00.35.24:446][ 47]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.11.13-00.35.24:447][ 47]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.11.13-00.35.24:447][ 47]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.11.13-00.35.24:447][ 47]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.11.13-00.35.24:447][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.11.13-00.35.24:447][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.11.13-00.35.24:447][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.11.13-00.35.24:447][ 47]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.11.13-00.35.24:447][ 47]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.11.13-00.35.24:447][ 47]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.11.13-00.35.24:448][ 47]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.11.13-00.35.24:448][ 47]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.11.13-00.35.24:448][ 47]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.11.13-00.35.24:448][ 47]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.11.13-00.35.24:448][ 47]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.11.13-00.35.24:448][ 47]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.11.13-00.35.24:448][ 47]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.11.13-00.35.24:448][ 47]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.11.13-00.35.24:448][ 47]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.11.13-00.35.24:448][ 47]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.11.13-00.35.24:448][ 47]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.11.13-00.35.24:448][ 47]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.11.13-00.35.24:450][ 47]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.11.13-00.35.24:451][ 47]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.11.13-00.35.24:451][ 47]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.11.13-00.35.24:451][ 47]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.11.13-00.35.24:451][ 47]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.11.13-00.35.24:451][ 47]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.11.13-00.35.24:451][ 47]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.11.13-00.35.24:451][ 47]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.11.13-00.35.24:452][ 47]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.11.13-00.35.24:453][ 47]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.11.13-00.35.24:453][ 47]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.11.13-00.35.24:454][ 47]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.11.13-00.35.24:454][ 47]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.11.13-00.35.24:454][ 47]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.11.13-00.35.24:454][ 47]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.11.13-00.35.24:454][ 47]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.11.13-00.35.24:454][ 47]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.11.13-00.35.24:454][ 47]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.11.13-00.35.24:454][ 47]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.11.13-00.35.24:455][ 47]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.11.13-00.35.24:455][ 47]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.11.13-00.35.24:455][ 47]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.11.13-00.35.24:455][ 47]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.11.13-00.35.24:455][ 47]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.11.13-00.35.24:455][ 47]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.11.13-00.35.24:455][ 47]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.11.13-00.35.24:556][ 47]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.11.13-00.35.24:657][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.11.13-00.35.24:657][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.11.13-00.35.24:657][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.11.13-00.35.24:657][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.11.13-00.35.24:657][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.11.13-00.35.24:660][ 47]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.11.13-00.35.24:661][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.11.13-00.35.24:661][ 47]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.11.13-00.35.24:661][ 47]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.11.13-00.35.24:661][ 47]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.11.13-00.35.24:661][ 47]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.11.13-00.35.24:661][ 47]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.11.13-00.35.24:661][ 47]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.11.13-00.35.24:662][ 47]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.11.13-00.35.24:663][ 47]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.11.13-00.35.24:664][ 47]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.11.13-00.35.24:664][ 47]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.11.13-00.35.24:664][ 47]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.11.13-00.35.24:664][ 47]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.11.13-00.35.24:666][ 47]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.11.13-00.35.24:666][ 47]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.11.13-00.35.24:666][ 47]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.11.13-00.35.24:666][ 47]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.11.13-00.35.24:666][ 47]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.11.13-00.35.24:666][ 47]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.11.13-00.35.24:667][ 47]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.11.13-00.35.24:667][ 47]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.11.13-00.35.24:667][ 47]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.11.13-00.35.24:667][ 47]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.11.13-00.35.24:668][ 47]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.11.13-00.35.24:668][ 47]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.11.13-00.35.24:668][ 47]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.11.13-00.35.24:668][ 47]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.11.13-00.35.24:668][ 47]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.11.13-00.35.24:669][ 47]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.11.13-00.35.24:669][ 47]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.11.13-00.35.24:670][ 47]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.11.13-00.35.24:671][ 47]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.11.13-00.35.24:672][ 47]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.11.13-00.35.24:672][ 47]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.11.13-00.35.24:672][ 47]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.11.13-00.35.24:672][ 47]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.11.13-00.35.24:674][ 47]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.11.13-00.35.24:674][ 47]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.11.13-00.35.24:676][ 47]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.11.13-00.35.24:676][ 47]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.11.13-00.35.24:678][ 47]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.11.13-00.35.24:678][ 47]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.11.13-00.35.24:678][ 47]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.11.13-00.35.24:678][ 47]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.11.13-00.35.24:678][ 47]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.11.13-00.35.24:678][ 47]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.11.13-00.35.24:678][ 47]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.11.13-00.35.24:678][ 47]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.11.13-00.35.24:678][ 47]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.11.13-00.35.24:678][ 47]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.11.13-00.35.24:679][ 47]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.11.13-00.35.24:679][ 47]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.11.13-00.35.24:679][ 47]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.11.13-00.35.24:680][ 47]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.11.13-00.35.24:680][ 47]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.11.13-00.35.24:681][ 47]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.11.13-00.35.24:754][ 47]LogDerivedDataCache: Shutdown
+[2019.11.13-00.35.24:754][ 47]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.11.13-00.35.24:754][ 47]LogXGEController: Cleaning working directory: C:/Users/Weaverr/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.13-00.35.24:754][ 47]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.11.13-00.35.24:754][ 47]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.11.13-00.35.24:755][ 47]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.11.13-00.35.24:755][ 47]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.11.13-00.35.24:755][ 47]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.11.13-00.35.24:755][ 47]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.11.13-00.35.24:756][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.11.13-00.35.24:756][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.11.13-00.35.24:756][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.11.13-00.35.24:757][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.11.13-00.35.24:757][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.11.13-00.35.24:757][ 47]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.11.13-00.35.24:757][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.11.13-00.35.24:757][ 47]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.11.13-00.35.24:757][ 47]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.11.13-00.35.24:757][ 47]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.11.13-00.35.24:757][ 47]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.11.13-00.35.24:778][ 47]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.11.13-00.35.24:778][ 47]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.11.13-00.35.24:778][ 47]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.11.13-00.35.24:779][ 47]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.11.13-00.35.24:779][ 47]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.11.13-00.35.24:782][ 47]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.11.13-00.35.24:782][ 47]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.11.13-00.35.24:787][ 47]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.11.13-00.35.24:787][ 47]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.11.13-00.35.24:845][ 47]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.11.13-00.35.24:845][ 47]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.11.13-00.35.24:845][ 47]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.11.13-00.35.24:845][ 47]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.11.13-00.35.24:845][ 47]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.11.13-00.35.24:845][ 47]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.11.13-00.35.24:845][ 47]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.11.13-00.35.24:845][ 47]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.11.13-00.35.24:845][ 47]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.11.13-00.35.24:845][ 47]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.11.13-00.35.24:845][ 47]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.11.13-00.35.24:846][ 47]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.11.13-00.35.24:846][ 47]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.11.13-00.35.24:846][ 47]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.11.13-00.35.24:847][ 47]LogHMD: Freeing OpenVRDLLHandle.
+[2019.11.13-00.35.24:847][ 47]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.11.13-00.35.24:847][ 47]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.11.13-00.35.24:847][ 47]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.11.13-00.35.24:847][ 47]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.11.13-00.35.24:847][ 47]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.11.13-00.35.24:848][ 47]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.11.13-00.35.24:848][ 47]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.11.13-00.35.24:859][ 47]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.11.13-00.35.24:859][ 47]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.11.13-00.35.24:859][ 47]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4DCD69E9-44DB-CAFD-F8E7-5BA78E5B5D29%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=d17506de4d507b624787e0bae75c22c3%7Cb182334213ef45ab8fdff86f51268601%7C7e5910a7-7a93-4659-9d56-7fa8ba66cde3&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.11.13-00.35.24:869][ 47]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.11.13-00.35.24:870][ 47]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.11.13-00.35.24:872][ 47]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.11.13-00.35.24:878][ 47]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.11.13-00.35.24:879][ 47]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.11.13-00.35.24:879][ 47]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.11.13-00.35.24:879][ 47]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.11.13-00.35.24:879][ 47]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.11.13-00.35.24:880][ 47]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.11.13-00.35.24:881][ 47]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.11.13-00.35.24:881][ 47]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.11.13-00.35.24:881][ 47]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.11.13-00.35.24:883][ 47]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.11.13-00.35.24:883][ 47]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.11.13-00.35.24:883][ 47]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.11.13-00.35.24:884][ 47]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.11.13-00.35.24:884][ 47]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.11.13-00.35.24:884][ 47]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.11.13-00.35.24:884][ 47]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.11.13-00.35.24:884][ 47]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.11.13-00.35.24:884][ 47]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.11.13-00.35.24:884][ 47]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.11.13-00.35.24:884][ 47]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.11.13-00.35.24:884][ 47]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.11.13-00.35.24:891][ 47]LogExit: Exiting.
+[2019.11.13-00.35.24:900][ 47]Log file closed, 11/13/19 01:35:24
